@@ -71,4 +71,23 @@ console.log(Math.random()); // 0.123456789
 console.log(Math.random() * 10); // 0.123456789 * 10 = 1.23456789
 console.log(Math.random() * 10 + 1); // 0.123456789 * 10 + 1 = 2.23456789
 console.log(Math.floor(Math.random() * 10 + 1)); // 2
+console.log(Math.max(73, 65, 64, 73));
+console.log(Math.min(73, 65, 64, 73));
+console.log(Math.trunc((Math.random() * 9000) + 1000)); // 0.123456789 * 100 = 12.3456789 , we have done +1000 to get the number in the range of 1000 to 9999
 
+let num = 10.7464734;
+console.log(num.toFixed(num))
+
+// area and parameter of rectangle
+
+let length = 10;
+let breadth = 20;
+let area = length * breadth;
+let perimeter = 2 * (length + breadth);
+console.log("Area of rectangle is " + area);
+console.log("Perimeter of rectangle is " + perimeter);
+// area and parameter of circle
+let radius = 10;
+let areaOfCircle = Math.PI * radius * radius;
+let perimeterOfCircle = 2 * Math.PI * radius;
+console.log("Area of circle is " + areaOfCircle);
