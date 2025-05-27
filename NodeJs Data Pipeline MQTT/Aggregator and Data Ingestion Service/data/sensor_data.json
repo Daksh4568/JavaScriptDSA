@@ -1,0 +1,236 @@
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:30:08.445Z","value":88,"unit":"b1a7cb28"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:06.511Z","value":54,"unit":"df63a30e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:06.512Z","value":49,"unit":"b8111cf6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:08.513Z","value":12,"unit":"1681f857"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:08.514Z","value":91,"unit":"d91500ed"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:10.515Z","value":31,"unit":"ac5ab41e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:10.516Z","value":64,"unit":"2f12cc03"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:12.518Z","value":50,"unit":"18db24c2"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:12.518Z","value":41,"unit":"6245db7b"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:14.521Z","value":89,"unit":"df566d8f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:14.521Z","value":76,"unit":"8a385db7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:16.523Z","value":99,"unit":"5b32f151"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:16.523Z","value":77,"unit":"0937a048"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:18.525Z","value":8,"unit":"cb1f361e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:18.526Z","value":30,"unit":"a569d07b"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:20.528Z","value":49,"unit":"8f3016e5"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:20.528Z","value":83,"unit":"14d8c278"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:22.529Z","value":62,"unit":"b341afb1"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:22.530Z","value":28,"unit":"bc320ef6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:24.530Z","value":37,"unit":"47bdaa05"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:24.531Z","value":0,"unit":"e81982c7"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-23T08:31:26.370Z","imageBlob":"SoIW8BR0Uoeu46fbwvG+yA=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:26.530Z","value":68,"unit":"94514e90"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:26.531Z","value":43,"unit":"d4986449"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:28.533Z","value":57,"unit":"4783b42f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:28.533Z","value":39,"unit":"00768ddb"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:30.536Z","value":95,"unit":"bb47a209"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:30.536Z","value":16,"unit":"0cda13b6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:32.539Z","value":84,"unit":"b23077d6"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:32.539Z","value":89,"unit":"4ae500d7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:34.541Z","value":63,"unit":"44583cf2"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:34.542Z","value":57,"unit":"38123604"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-23T08:31:36.369Z","code":"76c69107","unit":"5fc36bfd"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:36.542Z","value":27,"unit":"896d1ef7"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:36.542Z","value":88,"unit":"18420df4"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:38.545Z","value":22,"unit":"ce5dd4a5"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:38.545Z","value":65,"unit":"e4fff6da"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:40.547Z","value":26,"unit":"8d11fad6"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:40.548Z","value":62,"unit":"28bcdf88"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:42.550Z","value":79,"unit":"fa110d44"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:42.551Z","value":60,"unit":"1b20a5ae"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:44.553Z","value":11,"unit":"8d594c49"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:44.553Z","value":8,"unit":"d740f98b"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:46.556Z","value":77,"unit":"a5832687"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:46.556Z","value":76,"unit":"e294c4d9"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:48.560Z","value":93,"unit":"078b3b6f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:48.561Z","value":90,"unit":"645c59c6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:50.562Z","value":74,"unit":"d11be23a"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:50.563Z","value":94,"unit":"4b82a7c7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:52.565Z","value":11,"unit":"2629e51d"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:52.566Z","value":29,"unit":"9d997d31"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:54.568Z","value":48,"unit":"d1fd68e1"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:54.568Z","value":71,"unit":"eb403ad0"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-23T08:31:56.372Z","imageBlob":"aFkuyOioRvWbbGjMiFXySQ=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:56.568Z","value":91,"unit":"d5002460"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:56.568Z","value":53,"unit":"2e9463f1"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:31:58.570Z","value":19,"unit":"db671082"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:31:58.571Z","value":32,"unit":"e3f43ea7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:00.573Z","value":30,"unit":"851f5a19"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:00.573Z","value":19,"unit":"da25a48a"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:02.576Z","value":58,"unit":"8bb9d89b"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:02.576Z","value":62,"unit":"6dcef161"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:04.578Z","value":48,"unit":"405340e9"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:04.579Z","value":23,"unit":"1d8bd932"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:06.580Z","value":62,"unit":"958473d5"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:06.581Z","value":8,"unit":"40b7bc57"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:08.583Z","value":79,"unit":"20bd5388"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:08.583Z","value":64,"unit":"0abdae78"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:10.586Z","value":58,"unit":"310c38ff"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:10.586Z","value":12,"unit":"45d64f66"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:12.588Z","value":33,"unit":"ecb84278"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:12.589Z","value":77,"unit":"853ddd16"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:14.591Z","value":28,"unit":"d2403f25"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:14.592Z","value":70,"unit":"182820bd"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-23T08:32:16.372Z","code":"9eb7536c","unit":"a55c668f"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:16.591Z","value":45,"unit":"c988d13f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:16.592Z","value":8,"unit":"065ad20d"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:18.594Z","value":54,"unit":"607cbfbf"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:18.595Z","value":70,"unit":"465af1e9"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:20.597Z","value":85,"unit":"224e91f1"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:20.597Z","value":97,"unit":"dd40cacb"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:22.599Z","value":32,"unit":"7832a7ab"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:22.600Z","value":28,"unit":"0955f1bf"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:24.602Z","value":76,"unit":"5b09d3bf"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:24.602Z","value":89,"unit":"889b3c31"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-23T08:32:26.376Z","imageBlob":"afch0ZWUcyABTDu/iWXWOQ=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:26.602Z","value":23,"unit":"b9c9a207"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:26.603Z","value":63,"unit":"ad10403d"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:28.603Z","value":24,"unit":"cb66aae9"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:28.604Z","value":6,"unit":"857df2a0"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:30.604Z","value":26,"unit":"112bec22"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:30.604Z","value":78,"unit":"71624c5e"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:32.606Z","value":18,"unit":"17181b58"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:32.607Z","value":23,"unit":"f6b61efa"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:34.609Z","value":1,"unit":"3b863434"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:34.610Z","value":84,"unit":"fc02789a"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:36.612Z","value":72,"unit":"328c8ab7"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:36.613Z","value":1,"unit":"a1dd5b2c"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:38.615Z","value":77,"unit":"fc0865d8"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:38.615Z","value":4,"unit":"6990cdf8"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:40.618Z","value":94,"unit":"36cc5448"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:40.618Z","value":83,"unit":"aed73120"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:42.620Z","value":46,"unit":"2d1fe582"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:42.621Z","value":70,"unit":"6c513089"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:44.623Z","value":18,"unit":"d7cde30e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:44.623Z","value":46,"unit":"ab0a9a46"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:46.626Z","value":67,"unit":"31f93a2a"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:46.626Z","value":47,"unit":"f83d3749"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:48.629Z","value":39,"unit":"b9f9237f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:48.629Z","value":15,"unit":"8f7d8ce1"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:50.630Z","value":8,"unit":"34998670"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:50.631Z","value":8,"unit":"dbdf0dd2"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:52.632Z","value":87,"unit":"15786098"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:52.633Z","value":29,"unit":"5142972f"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:54.635Z","value":48,"unit":"db5ae0f6"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:54.635Z","value":2,"unit":"f4e1c3bb"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-23T08:32:56.374Z","code":"7ed4cab7","unit":"b78632da"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-23T08:32:56.377Z","imageBlob":"bXM2DGEnedxu9pDBoChO4Q=="}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:56.635Z","value":26,"unit":"7f682240"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:56.635Z","value":6,"unit":"5dc52ff6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:32:58.636Z","value":89,"unit":"2bb9aaca"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:32:58.637Z","value":59,"unit":"f614b706"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:00.638Z","value":12,"unit":"523fd1dc"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:00.639Z","value":3,"unit":"e0e73181"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:02.641Z","value":25,"unit":"44a58129"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:02.641Z","value":86,"unit":"676cfffb"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:04.644Z","value":55,"unit":"6bfc20b8"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:04.644Z","value":27,"unit":"72fdca7e"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:06.646Z","value":58,"unit":"a9f194a3"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:06.647Z","value":58,"unit":"47578edc"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:08.649Z","value":44,"unit":"2d807659"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:08.649Z","value":77,"unit":"1814cdcb"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:10.651Z","value":67,"unit":"eb3f919c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:10.652Z","value":23,"unit":"20f01fd0"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:12.654Z","value":22,"unit":"7fbe7a25"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:12.654Z","value":62,"unit":"c42af242"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:14.657Z","value":10,"unit":"08b1e101"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:14.657Z","value":19,"unit":"ae8287f7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:16.659Z","value":0,"unit":"a1a5d106"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:16.660Z","value":78,"unit":"f1b06e62"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:18.662Z","value":71,"unit":"ed3d1f32"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:18.662Z","value":95,"unit":"0a20b661"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:20.663Z","value":33,"unit":"a9aadbe3"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:20.663Z","value":98,"unit":"a99dcc4e"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:22.664Z","value":15,"unit":"504ec84b"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:22.664Z","value":13,"unit":"1268fe19"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-23T08:33:24.666Z","value":22,"unit":"c5cdf3a7"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-23T08:33:24.666Z","value":87,"unit":"b1128f0a"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-27T10:12:08.102Z","code":"247edd24","unit":"ddfb25d6"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:08.133Z","value":77,"unit":"7815e66e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:08.133Z","value":33,"unit":"5ce567e9"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:10.135Z","value":2,"unit":"718077ce"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:10.136Z","value":38,"unit":"5d63c97c"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:12.138Z","value":76,"unit":"02da4cd8"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:12.139Z","value":20,"unit":"3717b1b2"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:14.141Z","value":60,"unit":"7545bb13"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:14.141Z","value":53,"unit":"6c902a1b"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:16.141Z","value":83,"unit":"b873b26b"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:16.142Z","value":22,"unit":"fec84cd4"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:18.144Z","value":0,"unit":"0d4ec55c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:18.145Z","value":41,"unit":"03a7f78a"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:20.144Z","value":4,"unit":"836742c0"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:20.145Z","value":66,"unit":"c976034c"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:22.147Z","value":1,"unit":"4ee12831"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:22.148Z","value":18,"unit":"cc8d7e2d"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:24.150Z","value":66,"unit":"9471cf3a"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:24.150Z","value":68,"unit":"ecb1e0af"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:26.152Z","value":88,"unit":"d5fa7608"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:26.152Z","value":97,"unit":"5d73b5d0"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-27T10:12:28.103Z","imageBlob":"lvj/cye4aQF7ua9YkPVRww=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:28.152Z","value":24,"unit":"c2f3f39c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:28.153Z","value":16,"unit":"09cb4006"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:30.155Z","value":22,"unit":"640ed4ab"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:30.155Z","value":61,"unit":"01546188"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:32.157Z","value":96,"unit":"39acc884"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:32.157Z","value":29,"unit":"97a76253"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:34.158Z","value":21,"unit":"afb77bfb"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:34.159Z","value":78,"unit":"bc126455"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:36.160Z","value":14,"unit":"8eae328c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:36.161Z","value":29,"unit":"4f45f3cf"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:38.163Z","value":11,"unit":"2bdc1a04"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:38.164Z","value":42,"unit":"6726a517"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:40.166Z","value":30,"unit":"d582261e"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:40.166Z","value":72,"unit":"6c0e8912"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:42.168Z","value":52,"unit":"c08f0de2"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:42.168Z","value":13,"unit":"204908f3"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:44.170Z","value":93,"unit":"8f7560b1"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:44.171Z","value":4,"unit":"cfffde12"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:46.173Z","value":73,"unit":"72d11446"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:46.174Z","value":52,"unit":"e987c92c"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-27T10:12:48.105Z","code":"be4e7ab9","unit":"b3710566"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:48.174Z","value":41,"unit":"f1957e95"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:48.175Z","value":49,"unit":"67329c48"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:50.177Z","value":6,"unit":"a230625d"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:50.178Z","value":72,"unit":"666e93d0"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:52.179Z","value":99,"unit":"3fa93607"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:52.180Z","value":79,"unit":"4f66fdc4"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:54.181Z","value":13,"unit":"966d3dd1"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:54.182Z","value":95,"unit":"0521b90e"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:56.184Z","value":58,"unit":"e22d70db"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:56.185Z","value":3,"unit":"b464816f"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-27T10:12:58.105Z","imageBlob":"0cUMlv+EEuGbWaohT7aHzg=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:12:58.185Z","value":21,"unit":"69c36981"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:12:58.186Z","value":79,"unit":"e1c4d094"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:00.188Z","value":98,"unit":"5776c47b"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:00.188Z","value":7,"unit":"c0f55c5c"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:02.190Z","value":85,"unit":"9febd7a6"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:02.190Z","value":57,"unit":"ea7f8a9b"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:04.191Z","value":75,"unit":"53a72b29"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:04.192Z","value":95,"unit":"72877bc5"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:06.194Z","value":42,"unit":"55b5ad54"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:06.195Z","value":91,"unit":"e75f2b20"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:08.196Z","value":58,"unit":"c5bada14"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:08.197Z","value":83,"unit":"1604311c"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:10.198Z","value":58,"unit":"e15b6e77"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:10.200Z","value":61,"unit":"e4fa9136"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:12.201Z","value":36,"unit":"40b0d62a"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:12.201Z","value":54,"unit":"38708509"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:14.203Z","value":25,"unit":"7247ec8c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:14.203Z","value":34,"unit":"fca2df75"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:16.204Z","value":51,"unit":"a38eaa23"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:16.205Z","value":93,"unit":"8110bfa7"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:18.205Z","value":88,"unit":"0ffd0a11"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:18.206Z","value":63,"unit":"b5cf7b81"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:20.206Z","value":55,"unit":"a2c3d77c"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:20.207Z","value":94,"unit":"21b383c1"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:22.209Z","value":87,"unit":"6098c058"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:22.210Z","value":21,"unit":"bdbb8f2a"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:24.212Z","value":52,"unit":"a2f2a14f"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:24.212Z","value":6,"unit":"b883ee23"}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:26.213Z","value":96,"unit":"717f03a9"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:26.214Z","value":27,"unit":"dc738cae"}
+{"sensorId":"sensor_4","type":"diagnostic","timeStamp":"2025-05-27T10:13:28.107Z","code":"e28c3a4c","unit":"089e3077"}
+{"sensorId":"sensor_3","type":"camera","timeStamp":"2025-05-27T10:13:28.107Z","imageBlob":"WInvlZsSpZvDQwtbnVbG0g=="}
+{"sensorId":"sensor_1","type":"Temperature Sensor","timeStamp":"2025-05-27T10:13:28.214Z","value":4,"unit":"5149b27b"}
+{"sensorId":"sensor_2","type":"speed","timeStamp":"2025-05-27T10:13:28.214Z","value":33,"unit":"d0e0b013"}

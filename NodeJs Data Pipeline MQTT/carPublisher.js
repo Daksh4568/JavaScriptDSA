@@ -29,6 +29,6 @@ client.on('connect', () => {
 
     const payload = JSON.stringify(bulkData);
     client.publish(topic, payload);
-    console.log(`📤 Published batch of ${bulkData.length} records`);
+    console.log(`Published batch of ${bulkData.length} records`);
   }, 3000);
 });

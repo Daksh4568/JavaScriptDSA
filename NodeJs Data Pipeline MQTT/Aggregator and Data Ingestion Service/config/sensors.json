@@ -1,0 +1,43 @@
+{
+  "sensors": [
+    {
+      "id": "sensor_1",
+      "type": "Temperature Sensor",
+      "interval": 2000,
+      "attributes": {
+        "value": "int",
+          "unit": "string"
+      }
+      
+    },
+    {
+      "id": "sensor_2",
+      "type": "speed",
+      "interval": 2000,
+      "attributes": {
+        "value": "int",
+          "unit": "string"
+      }
+      
+    },
+    {
+      "id": "sensor_3",
+      "type": "camera",
+      "interval": 30000,
+      "attributes": {
+        "imageBlob": "blob"
+      }
+      
+    },
+    {
+      "id": "sensor_4",
+      "type": "diagnostic",
+      "interval": 40000,
+      "attributes": {
+        "code": "string",
+          "unit": "string"
+      }
+      
+    }
+  ]
+}
